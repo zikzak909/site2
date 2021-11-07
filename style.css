@@ -1,0 +1,26 @@
+
+h1,h2,h3{
+    text-align: justify;
+    font-family: Arial;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: seagreen;
+}
+b {
+    color: sienna;
+}
+section {
+    width: 800px;
+    height: 100%;
+    width: 100%;
+}
+img {
+    width: 50%;
+}
+line {
+    width: 600px;
+}
